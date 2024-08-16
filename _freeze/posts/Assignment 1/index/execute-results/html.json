@@ -1,0 +1,15 @@
+{
+  "hash": "8c021aa3b13d185eb963f9a8f2751177",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"AT1\"\nauthor: \"Christy\"\ndate: \"2024-08-16\"\ncategories: [video, marketing, media]\nimage: \"media_image.jpg\"\n---\n\n\n## How did Australia's housing market get so bad, and is it all negative gearing's fault?                       \nThe video titled \" How did Australia's housing market get so bad, and is it all negative gearing's fault?\" is from “Guardian Australia” channel and is available online through YouTube.\n\nThis is a “digital video” piece. Although it is hosted online, it uses professional video production techniques and standard media practices similar to traditional print media.\n\nThe video provides background on the Australian housing market by contrasting disposable income with house prices to illustrate their increasing disparity. It then explains how negative gearing and capital gains tax changes have exacerbated this issue, leading to the current affordability crisis.\n\nThe video explains that while negative gearing contributes to high Australian housing prices, the primary driver is the reduction in capital gains tax since 1999, which has amplified property value increases. The video concludes that this tax policy change, rather than negative gearing alone, has significantly inflated the housing market.\n\nThe lede in the video is presented right at the start with a visual comparison of disposable income and house prices. This can immediately capture viewers' attention, as it highlights the disconnect between income growth and housing costs. Compared to the traditional media, this video lede making the information more engaging and immediate.\n\nThe initial segment of the video provides background on the Australian housing market, illustrating how house prices have surged compared to disposable income. This is really helpful to the viewer who are not familiar with Australian housing market and how the taxation run in Australia. \n\n\n::: {.cell}\n::: {.cell-output-display}\n![](picture1.png){width=466}\n:::\n:::\n\n\n\nThe video’s main takeaway is that, although negative gearing affects property prices, the major driver of the housing market surge is the reduction in capital gains tax. By cutting the capital gains tax in 1999(YouTube, 2024, 3:11), the policy made property investments more appealing, leading to substantial price increases.\n\nThe main result of the video(YouTube, 2024, 4:00-4:30) is that investors, driven by the combination of negative gearing and capital gains tax discounts, are willing to pay increasingly higher prices for properties. This behavior accelerates the rise in house prices, which further enhances the profitability of investing, creating a \"vicious cycle\" of rising property values and escalating investment.\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

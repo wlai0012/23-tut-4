@@ -1,0 +1,19 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "23 tut 4"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/wlai0012
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
